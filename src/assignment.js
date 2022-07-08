@@ -18,8 +18,7 @@ function sumOfNumbers(arrayOfNumbers) {
     for(let i=0, i <arrayOfNumbers.length; i++){
         sum +=arrayOfNumbers[i]
     }
-    return sum;
-    return arrayOfNumbers.length;    
+    return sum;  
 }
  assignment.sumOfNumbers = sumOfNumbers;
 
