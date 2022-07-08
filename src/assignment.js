@@ -35,7 +35,7 @@ function sumOfNumbers(arrayOfNumbers) {
  let number=[]
 function countEvenNumbers(arrayOfNumbers) {   
    for (let i=0; i < arrayOfNumber.length; i++){
-       if(arrayOfNumbers[i] % 2==0);{
+       if(arrayOfNumbers[i] % 2==0){
            number.push(arrayOfNumbers[i]);
     };
   }; 
